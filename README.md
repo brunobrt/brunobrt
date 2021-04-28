@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Bruno Bartolomasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobrt&count_private=true&show_icons=true&theme=dracula)](https://github.com/brunobrt/github-readme-stats)
 
 <!---
 brunobrt/brunobrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
