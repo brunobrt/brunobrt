@@ -1,10 +1,8 @@
 ## :sunglasses: About me
 
-    👋 Hi, I’m @brunobrt
-    👀 I’m interested in ...
-    🌱 I’m currently learning ...
-    💞️ I’m looking to collaborate on ...
-    📫 How to reach me ...
+  // TODO :sweat_smile:
+    
+  But if you're curious, you can find out more about me clicking on any of the icons below :smile:
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brunobrt.visitor-badge)
 
