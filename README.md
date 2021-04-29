@@ -2,7 +2,7 @@
 
   // TODO :sweat_smile:
     
-  But if you're curious, you can find out more about me clicking on any of the icons below :smile:
+  But... you can find out more about me clicking on any of the icons below :smile:
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brunobrt.visitor-badge)
 
